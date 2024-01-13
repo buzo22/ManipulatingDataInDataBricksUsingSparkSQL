@@ -1,5 +1,5 @@
 # ManipulatingDataInDataBricksUsingSparkSQL
-Here we work with and manage null values and timestamps in Spark SQL. In this query, I:
+Here I worked with and manage null values and timestamps in Spark SQL. In this query, I:
 Sampled a table 
 Accessed individual values from an array 
 Reformated values using a padding function 
